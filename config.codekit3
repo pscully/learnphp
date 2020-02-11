@@ -9,6 +9,94 @@
 	],
 "creatorBuild": "31934",
 "files": {
+	"/config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/config.php",
+		"oF": 0
+		},
+	"/controllers/about-culture.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/controllers/about-culture.php",
+		"oF": 0
+		},
+	"/controllers/about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/controllers/about.php",
+		"oF": 0
+		},
+	"/controllers/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/controllers/contact.php",
+		"oF": 0
+		},
+	"/controllers/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/controllers/index.php",
+		"oF": 0
+		},
+	"/core/bootstrap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/bootstrap.php",
+		"oF": 0
+		},
+	"/core/database/Connection.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/database/Connection.php",
+		"oF": 0
+		},
+	"/core/database/QueryBuilder.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/database/QueryBuilder.php",
+		"oF": 0
+		},
+	"/core/Note.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/Note.php",
+		"oF": 0
+		},
+	"/core/Request.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/Request.php",
+		"oF": 0
+		},
+	"/core/Router.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/core/Router.php",
+		"oF": 0
+		},
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -17,12 +105,84 @@
 		"oAP": "/index.php",
 		"oF": 0
 		},
-	"/index.view.php": {
+	"/routes.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.view.php",
+		"oAP": "/routes.php",
+		"oF": 0
+		},
+	"/views/about-culture.view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/views/about-culture.view.php",
+		"oF": 0
+		},
+	"/views/about.view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/views/about.view.php",
+		"oF": 0
+		},
+	"/views/contact.view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/views/contact.view.php",
+		"oF": 0
+		},
+	"/views/index.view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/views/index.view.php",
+		"oF": 0
+		},
+	"/views/partials/__footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/views/partials/__footer.php",
+		"oF": 0
+		},
+	"/views/partials/__form.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/views/partials/__form.php",
+		"oF": 0
+		},
+	"/views/partials/__head.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/views/partials/__head.php",
+		"oF": 0
+		},
+	"/views/partials/__nav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/views/partials/__nav.php",
+		"oF": 0
+		},
+	"/views/partials/__notes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/views/partials/__notes.php",
 		"oF": 0
 		}
 	},

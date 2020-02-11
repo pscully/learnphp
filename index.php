@@ -1,5 +1,5 @@
 <?php
 
-$heading = 'Learning PHP is Fun';
+require 'core/bootstrap.php';
 
-include 'index.view.php';
+require Router::load('routes.php')->direct(Request::uri());
